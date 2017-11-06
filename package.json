@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ascoders/react-native-image-zoom.git"
+    "url": "https://github.com/masterou/react-native-image-pan-zoom.git"
   },
   "keywords": [
     "image-zoom"
